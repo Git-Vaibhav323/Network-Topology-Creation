@@ -19,12 +19,6 @@ These topologies are interconnected through hybrid connections to form a unified
 - **Network Analysis**: Displays total nodes and edges in the network
 - **Interactive Visualization**: Multiple views showing different aspects of the network
 
-## 📦 Requirements
-
-### Software
-- **Scilab** (version 6.0 or higher)
-- **NARVAL Toolbox** (Network Analysis and Routing Visualization Library)
-
 ### Installation Steps
 
 1. **Install Scilab**
